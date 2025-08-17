@@ -7,9 +7,7 @@
         Meal Price: <input type="text" id="mealPrice"><br>
         Tip: <input type="text" id="tip"><br>
         Service Charge: <input type="text" id="serviceCharge"><br><br>
-
         <button onclick="totalMeal()">Accept Input</button>
-
         <p id="result">Total Meal:</p>
 
         <script>
@@ -17,9 +15,7 @@
                 let mp = parseFloat(document.getElementById("mealPrice").value);
                 let tip = parseFloat(document.getElementById("tip").value);
                 let sc = parseFloat(document.getElementById("serviceCharge").value);
-
                 let totalCost = mp + tip + (sc / 100 * mp);
-
                 document.getElementById("result").innerHTML = "Total Meal: " + totalCost.toFixed(2);
             }
         </script>
