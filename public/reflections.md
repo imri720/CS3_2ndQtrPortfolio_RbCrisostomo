@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html>
+
 ### Q1 End of Lessons Reflection
 **Imanuel C. Crisostomo** <br>
 **9-Rubidium** <br> <br>
@@ -59,3 +62,4 @@
 #### *Ineffective*
 - *I think all of the exercises were already effective in some way; they all helped and guided me through the topic it was on about.*
 
+</html>
